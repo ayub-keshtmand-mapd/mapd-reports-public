@@ -11,6 +11,7 @@ rows:
       - kpi_grid:
           comparison:
             - percent_change
+            - delta
           hide_time_range: true
           measures:
             - total_impressions
@@ -37,3 +38,4 @@ rows:
           sparkline: right
           title: Ads Performance Overview
         width: 12
+    height: 40px
