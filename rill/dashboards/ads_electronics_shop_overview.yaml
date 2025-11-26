@@ -2,7 +2,7 @@
 # Reference documentation: https://docs.rilldata.com/reference/project-files/canvas-dashboards
 
 type: canvas
-display_name: "Ads Performance Overview"
+display_name: "Ads - Electronics - Overview Dashboard"
 defaults:
   time_range: PT24H
   comparison_mode: time
@@ -33,7 +33,7 @@ rows:
             - revenue_per_click
             - revenue_per_impression
             - roas
-          metrics_view: ads_curated_electronics
+          metrics_view: ads_electronics_shop_metrics
           sparkline: right
           title: Ads Performance Overview
         width: 12
