@@ -1,12 +1,12 @@
 version: 1
 type: metrics_view
 
-name: ads_curated_electronics
-display_name: "Ads Performance - Electronics"
-title: "Ads Performance - Electronics"
+name: ads_electronics_shop_metrics
+display_name: "Ads - Electronics - Metrics"
+title: "Ads - Electronics - Metrics"
 description: "Multi-platform ads performance metrics for electronics campaigns, including delivery, cost, and revenue efficiency. All monetary values are in USD."
 
-model: ads_curated_electronics
+model: ads_electronics_shop_source
 timeseries: date
 
 smallest_time_grain: day

@@ -5,4 +5,4 @@ type: model
 materialize: true
 
 connector: duckdb
-sql: "select * from read_parquet('data/ads_curated_electronics.parquet')"
+sql: "select * from read_parquet('data/ads_electronics_shop.parquet')"

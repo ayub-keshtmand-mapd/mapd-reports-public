@@ -3,8 +3,8 @@
 
 type: explore
 
-display_name: "Ads Performance - Electronics dashboard"
-metrics_view: ads_curated_electronics
+display_name: "Ads - Electronics - Explore Dashboard"
+metrics_view: ads_electronics_shop_metrics
 
 dimensions: '*'
 measures: '*'
